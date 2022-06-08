@@ -18,7 +18,7 @@
   <p> The contents of this page are as ordered: 
     <ol type = "1">
       <li><a href = "#intro_section">Introductory Page</a></li>
-       <li><a href = "#comm_partners_section">Community Partners / Acknowledgments</a></li>
+       <li><a href = "#comm_partners_section">Community Partners / Acknowledgements</a></li>
       <li><a href = "#ResQs_section">Relevancy of Research Questions</a></li>
       <li><a href = "#UData_section">Understanding the Data</a></li>
       <li><a href = "#GM_section">Graphical Modeling</a></li>
@@ -36,7 +36,7 @@
 </body>
 
 <body>
-<h2>Community Partners / Acknoledgements <a name = "comm_partners_section"></a></h2>
+<h2>Community Partners / Acknowledgements <a name = "comm_partners_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
 </body>
