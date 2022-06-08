@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/kelly-o35/PIT-UN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>PIT-UN Project</title>
+<meta charset=”UTF-8”>
+<meta name=”Integrating Community Knowledge and Core Resources in a Graduate Certificate Program in Data Sciences for Social Impact at Case Western Reserve University”>.
+<meta name = “author” content=”Dr. Francisca Richter, Dr. Shanina Knighton, Dr. Laura Bruckman”>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  
+<h1> Welcome to the PIT-UN Project Website! </h1>
+<p> <b><i> The purpose of this project is to integrate community knowledge into data science projects to promote the ethical, inclusive, and informed use of community data in social science data projects </i></b> </p>
+  
+<p> The major contributing researchers responsible for leading this project are 
+<ul>
+<li>Dr. Francisca Richter</li>
+<li>Dr. Shanina Knighton</li>
+<li>Dr. Laura Bruckman</li>
+</ul>
+</p>
 
-### Markdown
+ <details><summary><h2> Guide to this page </h2></summary> 
+  <p> The contents of this page are as ordered: 
+    <ol type = "1">
+      <li><a href = "#intro_section">Introductory Page</a></li>
+       <li><a href = "#comm_partners_section">Community Partners / Acknowledgments</a></li>
+      <li><a href = "#ResQs_section">Relevancy of Research Questions</a></li>
+      <li><a href = "#UData_section">Understanding the Data</a></li>
+      <li><a href = "#GM_section">Graphical Modeling</a></li>
+      <li><a href = "#Student_Pro_section">Student Projects</a></li>
+      <li><a href = "#sources_section">Data Source List</a></li>
+    </ol>
+    </p>
+  </details>
+</body> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+<h2>Introductory page<a name = "intro_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-```markdown
-Syntax highlighted code block
+<body>
+<h2>Community Partners / Acknoledgements <a name = "comm_partners_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-# Header 1
-## Header 2
-### Header 3
+<body>
+<h2>Relevancy of Research Questions<a name = "ResQs_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-- Bulleted
-- List
+<body>
+<h2>Understanding the Data<a name = "UData_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
+    
+<body>
+<h2>Graphical Modeling<a name = "GM_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-1. Numbered
-2. List
+<body>
+<h2>Student Projects<a name = "Student_Pro_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-**Bold** and _Italic_ and `Code` text
+<body>
+<h2>Data Source List<a name = "sources_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kelly-o35/PIT-UN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
