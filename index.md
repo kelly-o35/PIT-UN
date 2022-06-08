@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-<title>PIT-UN Project</title>
-<meta charset=”UTF-8”>
-<meta name=”Integrating Community Knowledge and Core Resources in a Graduate Certificate Program in Data Sciences for Social Impact at Case Western Reserve University”>.
-<meta name = “author” content=”Dr. Francisca Richter, Dr. Shanina Knighton, Dr. Laura Bruckman”>
-</head>
-
 <body>
   
 <h1> Welcome to the PIT-UN Project Website! </h1>
