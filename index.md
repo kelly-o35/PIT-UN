@@ -26,19 +26,35 @@
     </ol>
     </p>
   </details>
+  <br>
 </body> 
 
 <body>
-<h2>Introductory page<a name = "intro_section"></a></h2>
+<h2>Introduction <a name = "intro_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
 </body>
 
+<br>
 <details><summary><h1> The PIT-UN Project </h1></summary> 
 <body>
 <h2><a name = "sources_section">Using Administrative/Public Data</a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
-    <p> [Page Content HERE] </p>
+    <p> Finding what data you want to work with is one of the most crucial steps in the reseach process. Many datasets are private or non public-access data sets which can only be accessed via a permission request and an IRB. 
+      <br><br> To make the data collection process easier, we have compiled a list of databases and wesbites that offer publicly available data. The best sites for a wide variety of data for social science projects are below, as are data sets available by topic!
+      <br><br> <b>General Data Platforms:</b>
+        <li><a href = "https://data.world/">Data World</a> - an open source data platform that has a large collaborative data community with access to online data sets</li>
+        <li><a href = "https://www.kaggle.com/datasets">Kaggle</a> - an open source data platform that has free access to a wide variety of data sets </li>
+       <li><a href = "https://data.gov/">Data.gov</a> - the US government's open data platform</li>
+        <li><a href = "https://cloud.google.com/datasets">Google Cloud</a> - Google Cloud's publicly available data sets</li>
+     <br><details><summary><b>Homelessness</b></summary>
+        <li><a href = "https://catalog.data.gov/dataset?tags=homeless">Data.Goc homeslessness data sets</a></li>
+        <li><a href = "https://evictionlab.org/eviction-tracking/">Eviction Lab data</a></li>
+        <li><a href = "https://datahub.io/gavram/homelessness">Data Hub homelessness data sets</a></li>
+        <li><a href = "https://data.world/datasets/homelessness">Data World homelessness data sets</a></li>
+        <li><a href = "https://nche.ed.gov/data-collection/">National Center for Homeless Education data</a></li>
+      </details>
+  </p>
 </body>
 
 <body>
@@ -57,11 +73,14 @@
 </details>
   
 <body>
+  
+<br>  
 <h2>Student Projects<a name = "Student_Pro_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
 </body>
 
+<br>
 <body>
 <h2>Community Partners / Acknowledgements <a name = "comm_partners_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
