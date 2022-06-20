@@ -47,12 +47,39 @@
         <li><a href = "https://www.kaggle.com/datasets">Kaggle</a> - an open source data platform that has free access to a wide variety of data sets </li>
        <li><a href = "https://data.gov/">Data.gov</a> - the US government's open data platform</li>
         <li><a href = "https://cloud.google.com/datasets">Google Cloud</a> - Google Cloud's publicly available data sets</li>
-     <br><details><summary><b>Homelessness</b></summary>
+      
+      <details><summary><b>Homelessness</b></summary>
         <li><a href = "https://catalog.data.gov/dataset?tags=homeless">Data.Goc homeslessness data sets</a></li>
         <li><a href = "https://evictionlab.org/eviction-tracking/">Eviction Lab data</a></li>
         <li><a href = "https://datahub.io/gavram/homelessness">Data Hub homelessness data sets</a></li>
         <li><a href = "https://data.world/datasets/homelessness">Data World homelessness data sets</a></li>
         <li><a href = "https://nche.ed.gov/data-collection/">National Center for Homeless Education data</a></li>
+      </details>
+      
+       <br><details><summary><b>Food Insecurity</b></summary>
+      <li><a href="https://data.nal.usda.gov/dataset/food-security-united-states-0">US Department of Agriculture food insecuirty data </a></li>
+      <li><a href="https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-food-security.html">US Census food insecurity data </a></li>
+      <li><a href="https://catalog.data.gov/dataset/food-security-in-the-united-states">Economics Research Service food insecurity data </a></li>
+      <li><a href="https://data.world/datasets/food-security">Data World food insecuirty data </a></li>
+    </details>
+
+      
+      <br><details><summary><b>Early Childhood Data</b></summary>
+      <li><a href="https://ectacenter.org/portal/ecdata.asp">ECTA childhood data sources - **this is a database containing lots of sites where you can access early childhood data </a></li>
+      <li><a href="https://www.cdc.gov/ncbddd/childdevelopment/data.html">CDC Child Development data </a></li>
+      <li><a href="https://www.childandfamilydataarchive.org/cfda/pages/cfda/index.html">University of Michigan Child and Family Data Archive </a></li>
+      </details>
+
+      <br><details><summary><b> Child Welfare Data</b></summary>
+      <li><a href="http://childwelfaresparc.org/wp-content/uploads/2014/09/Knowing-the-Numbers.pdf">SPARC Overview on Accessing and Using Child Welfare Data </a></li>
+      <li><a href="https://www.childwelfare.gov/topics/systemwide/statistics/">Child Welfare Information Gateway - US Department of Health & Human Services </a></li>
+      <li><a href="https://www.acf.hhs.gov/cb/data-research">Children's Bureau data and research </a></li>
+      </details>
+
+      
+      <br><details><summary><b>Earth/Nature Data</b></summary>
+      <li><a href="https://www.earthdata.nasa.gov/">NASA Earth Data </a></li>
+      <li><a href="https://gisgeography.com/natural-earth-data-free-gis-public/">GIS Geography Natural Earth Data </a></li>
       </details>
   </p>
 </body>
@@ -66,7 +93,7 @@
 <body>
 <h2>Identifying/Addressing Bias in Data Analysis<a name = "UData_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
-    <p> [Page Content HERE] </p>
+    
   <h4>C&P Modeling</h4>
   <p>[Content]</p>
 </body>
