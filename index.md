@@ -27,17 +27,13 @@
     </p>
   </details>
   <br>
-</body> 
 
-<body>
 <h2>Introduction <a name = "intro_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
-</body>
 
 <br>
 <details><summary><h1> The PIT-UN Project </h1></summary> 
-<body>
 <h2><a name = "sources_section">Using Administrative/Public Data</a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> Finding what data you want to work with is one of the most crucial steps in the reseach process. Many datasets are private or non public-access data sets which can only be accessed via a permission request and an IRB. 
@@ -83,36 +79,28 @@
       <li><a href="https://gisgeography.com/natural-earth-data-free-gis-public/">GIS Geography Natural Earth Data </a></li>
       </details>
   </p>
-</body>
 
-<body>
 <h2>Guide to Integrating Community Knowledge<a name = "ResQs_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
-</body>
 
-<body>
 <h2>Identifying/Addressing Bias in Data Analysis<a name = "UData_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     
   <h4>C&P Modeling</h4>
   <p>[Content]</p>
-</body>
 </details>
   
-<body>
   
 <br>  
 <h2>Student Projects<a name = "Student_Pro_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
-</body>
 
 <br>
-<body>
 <h2>Community Partners / Acknowledgements <a name = "comm_partners_section"></a></h2>
   <p> <i> [Explaination of the page real quick] </i> </p>
     <p> [Page Content HERE] </p>
-</body>
 
+</body>
 </html>
