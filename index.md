@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <body>
@@ -45,8 +44,7 @@
        <li><a href = "https://data.gov/">Data.gov</a> - the US government's open data platform</li>
         <li><a href = "https://cloud.google.com/datasets">Google Cloud</a> - Google Cloud's publicly available data sets</li>
       <li><a href="https://www.nature.com/sdata/policies/repositories#broad-earth-env">Nature's Scientific Data respository</a> - a collection of publicily available databases on social, environmental, health, and hard sciences</li>
-      </ul>
-        </p>
+  </ul>
       
       <br><details><summary><b>Homelessness</b></summary>
       <ul>
