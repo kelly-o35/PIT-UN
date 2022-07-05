@@ -20,6 +20,7 @@
       <li><a href = "#sources_section">Using Administrative/Public Data</a></li> 
       <li><a href = "#ResQs_section">Guide to Integrating Community Knowledge</a></li>
       <li><a href = "#UData_section">Identifying/Addressing Bias in Data Analysis</a></li>
+      <li><a href = "#ethics_section">Ethics and Fairness Considerations</a></li>
       <li><a href = "#Student_Pro_section">Student Projects</a></li>
       <li><a href = "#comm_partners_section">Community Partners / Acknowledgements</a></li>
     </ol>
@@ -28,13 +29,21 @@
   <br>
 
 <h2>Introduction <a name = "intro_section"></a></h2>
-  <p> <i> [Explaination of the page real quick] </i> </p>
-    <p> [Page Content HERE] </p>
+  <p> <i> The PIT-UN project from the Center on Urban Poverty and Community Development within CWRU's Mendel School for Applied Social Sciences is a collaborative project working to create a new certificate program in data science for social impact. </i> </p>
+    <p> The DSSI certificate program, <i>Integrating Community Knowledge and Core Resources in a Graduate Certificate Program in Data Science
+for Social Impact (DSSI)</i>, was created for students to intentionally, accurately, and ehtically use community data for data and social science projects. The goal of this certificate is for students to undertake community-relevant data science projects that focus on and advance social justice. <br>
+  The key pillars of the framework this project introduces for students are:
+  <ul>
+    <li>develop a network of community partners for students to learn about how data impacts and can better capture the experience of people in the communities being studied</li>
+    <li>integrate community knowledge into data collection and analysis on relevant areas of social welfare</li>
+  </ul>
+  The key focus of this project is to teach students the critical frameworks social and data scientists need to ethically and accurately use community data for positive social impacts. The contents of the certificate completed by CWRU students is detailed below in a simplified form! This project is brokwn into 4 main sections: <i>Using Administrative/Public Data, Guide to integrating community knowledge into data science projects, Identifying/addressing bias in data analysis, Ethics and fairness considerations</i>. There are also additional sections detailing the community partners and collaborators involved in this project, as well as examples of student projects conducted either within this ceritifcate or using the frameworks detailed here. 
+</p>
 
 <br>
 <details><summary><h1> The PIT-UN Project </h1></summary> 
 <h2><a name = "sources_section">Using Administrative/Public Data</a></h2>
-  <p> <i> [Explaination of the page real quick] </i> </p>
+  <p> <i> Here we provide databases and individual data sets on topics of interest for different social science data projects </i> </p>
     <p> Finding what data you want to work with is one of the most crucial steps in the reseach process. Many datasets are private or non public-access data sets which can only be accessed via a permission request and an IRB. 
       <br><br> To make the data collection process easier, we have compiled a list of databases and wesbites that offer publicly available data. The best sites for a wide variety of data for social science projects are below, as are data sets available by topic!
       <br><br> <b>General Data Platforms:</b>
@@ -98,7 +107,20 @@
   <p> <i> [Explaination of the page real quick] </i> </p>
     
   <h4>C&P Modeling</h4>
-  <p>[Content]</p>
+  <p>[Content]<br><br>
+  <b>Topic-Specific Examples:</b>
+  <details><summary><b>Homelessness</b></summary>
+    [content]
+     </details>
+  <details><summary><b>SNAP & WIC</b></summary>
+    [content]
+     </details>
+  </p>
+  
+  
+<h2>Ethics and Fairness Considerations<a name = "ethics_section"></a></h2>
+  <p> <i> [Explaination of the page real quick] </i> </p>
+    <p> [Page Content HERE] </p>
 </details>
   
   
@@ -109,8 +131,26 @@
 
 <br>
 <h2>Community Partners / Acknowledgements <a name = "comm_partners_section"></a></h2>
-  <p> <i> [Explaination of the page real quick] </i> </p>
-    <p> [Page Content HERE] </p>
+  <p> <i> The formation of the resources and fameworks at the heart of the PIT-UN project hinge on institutional and community collaboration. This completion of this project would not have been possible without many local institutional and community collaborators, researchers, and leaders working together to inform how students may better conduct impact, equitable social science research projects. </i> </p>
+    <p> The principal investigator for this project was Dr. Francisca García-Cobián Richter from the Center on Urban Poverty and Community Development. <br> 
+  The individuals who greatly contributed as partners to this project are:
+  <ul>
+    <li>Alice Jackson, Founding Director of ThinkingCapp</li>
+    <li>Professor Laura Bruckman, Case Western Reserve University School of Engineering</li>
+    <li>Professor Shanina Knighton, Case Western Reserve University Frances Payne-Bolton School of Nursing</li>
+    <li>Joseph Andre, Research Associate, Center on Urban Poverty and Community Development</li>
+  </ul>
+  The groups involved in this partnership were:
+    <ul>
+      <li>Center on Urban Poverty and Community Development</li>
+      <li>Mary Ann Swetland Center for Environmental Health</li>
+      <li>Thinking Capp</li>
+      <li>Cuyahoga County public offices</li>
+      <li>The Centers for Families and Children</li>
+      <li>Northeast Ohio Coalition for the Homeless</li>
+    </ul>
+    <a href = "https://drive.google.com/file/d/1gYMKipKl7juDsxbH5NFZWBE83ikZmkF5/view?usp=sharing"><img src="Screenshot 2022-07-05 111449.jpg" alt="Image" height="42" width="42"></a>
+</p>
 
 </body>
 </html>
