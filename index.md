@@ -95,6 +95,7 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
       <ul>
       <li><a href="https://www.earthdata.nasa.gov/">NASA Earth Data </a></li>
       <li><a href="https://gisgeography.com/natural-earth-data-free-gis-public/">GIS Geography Natural Earth Data </a></li>
+      <li><a href="https://uaf-snap.org/">Scenarios Network for Alaska and Artic Planning - Climate Data Hub</a></li>
       </ul>
      </details>
   </p>
@@ -113,7 +114,28 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
     [content]
      </details>
   <details><summary><b>SNAP & WIC</b></summary>
-    [content]
+      Resources for SNAP Research<br>
+      <i>These resources include explainations of what SNAP is and how it works, descriptive information on SNAP accessibility, and publicly available data on SNAP enrollment</i>
+      <ul>
+      <li><a href="https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap">Comprehensive SNAP Breakdown - Center on Budget and Policy Priorities</a></li>
+      <li><a href="https://www.census.gov/library/visualizations/interactive/snap-eligibility-access.html">US Census - SNAP Eligibility and Access Maps, 2017</a></li>
+      <li><a href="https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap">USDA Food and Nutrition Service - SNAP Data Tables </a></li>
+      <li><a href="https://fred.stlouisfed.org/tags/series?t=snap">**FRED - St. Louis Fed Economic Data Series on SNAP, has every state and their SNAP enrollment by year available for download</a></li>
+      <li><a href="https://www.dhs.state.il.us/page.aspx?item=56952">Illinois DHS SNAP Data</a></li>
+      <li><a href="https://www.dss.virginia.gov/geninfo/reports/financial_assistance/snap_participation.cgi">Virginia Department of Social Services - SNAP Participation Reports</a></li>
+      <li><a href="https://cdhs.colorado.gov/snap-data">Colorado DHS SNAP Data and Research</a></li>
+      <li><a href="https://otda.ny.gov/resources/caseload/">NY Office of Temporary and Disability Assistance - Monthly Caseload Data</a></li>
+      <li><a href="https://data.cityofnewyork.us/Social-Services/Total-SNAP-Recipients/5c4s-jwtq">NYC Open Data - Total SNAP Recipients</a></li>
+      <li><a href="https://dhs.iowa.gov/dashboard_SNAPFIP">Iowa DHS SNAP and FIP Data</a></li>
+      <li><a href="https://dss.sc.gov/about/data-and-resources/family-assistance-data/supplemental-nutrition-assistance-program-snap/">South Carolina Deparmtnet of Social Services - Monthly SNAP Enrollment Data</a></li>
+      <li><a href="https://datacenter.kidscount.org/data/tables/3019-participants-in-the-supplemental-nutrition-assistance-program-snap#detailed/2/any/false/2048,574,1729,37,871,870,573,869,36,868/any/13224,10118">Kids Count Data Center - Tennessee SNAP Participation</a></li>
+      <li><a href="https://catalog.data.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system">Data Catalog - USDA Economic Research Studies Dataset on SNAP enrollment and eligibility</a></li>
+      <li><a href="https://data.world/datasets/snap">Data World - SNAP Datasets</a></li>
+      <li><a href="https://www.baylor.edu/hungerdatalab/index.php?id=966281">Baylor University - Texas SNAP Data</a></li>
+      <li><a href="https://georgiadata.org/topics/public-assistance/SNAP">University of Georgia Public Service and Outreach- Georgia SNAP Data</a></li>
+      <li><a href="https://data.ct.gov/Health-and-Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Aut/2xqb-xbez">Conneticut DHS - Conneticut SNAP Authorized Retailors Data</a></li>
+      <li><a href="">a></li>
+      </ul>
      </details>
   </p>
   
