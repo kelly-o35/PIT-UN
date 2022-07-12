@@ -48,11 +48,12 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
       <br><br> To make the data collection process easier, we have compiled a list of databases and wesbites that offer publicly available data. The best sites for a wide variety of data for social science projects are below, as are data sets available by topic!
       <br><br> <b>General Data Platforms:</b>
       <ul>
-        <li><a href = "https://data.world/">Data World</a> - an open source data platform that has a large collaborative data community with access to online data sets</li>
-        <li><a href = "https://www.kaggle.com/datasets">Kaggle</a> - an open source data platform that has free access to a wide variety of data sets </li>
-       <li><a href = "https://data.gov/">Data.gov</a> - the US government's open data platform</li>
-        <li><a href = "https://cloud.google.com/datasets">Google Cloud</a> - Google Cloud's publicly available data sets</li>
+      <li><a href = "https://data.world/">Data World</a> - an open source data platform that has a large collaborative data community with access to online data sets</li>
+      <li><a href = "https://www.kaggle.com/datasets">Kaggle</a> - an open source data platform that has free access to a wide variety of data sets </li>
+      <li><a href = "https://data.gov/">Data.gov</a> - the US government's open data platform</li>
+      <li><a href = "https://cloud.google.com/datasets">Google Cloud</a> - Google Cloud's publicly available data sets</li>
       <li><a href="https://www.nature.com/sdata/policies/repositories#broad-earth-env">Nature's Scientific Data respository</a> - a collection of publicily available databases on social, environmental, health, and hard sciences</li>
+      <li><a href="https://www.mass.gov/massachusetts-data-hub">Massachusetts Data Hub</a> - a centralized collection of most publicly available MA state data</li>
   </ul>
       
       <br><details><summary><b>Homelessness</b></summary>
@@ -87,15 +88,30 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
       <li><a href="http://childwelfaresparc.org/wp-content/uploads/2014/09/Knowing-the-Numbers.pdf">SPARC Overview on Accessing and Using Child Welfare Data </a></li>
       <li><a href="https://www.childwelfare.gov/topics/systemwide/statistics/">Child Welfare Information Gateway - US Department of Health & Human Services </a></li>
       <li><a href="https://www.acf.hhs.gov/cb/data-research">Children's Bureau data and research </a></li>
+      <li><a href="https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/child-protection-foster-care-adoption/child-welfare-data-dashboard/ ">Child Welfare Data Dashboard - Minnesota DHS</a></li>
       </ul>
       </details>
 
-      
       <br><details><summary><b>Earth/Nature Data</b></summary>
       <ul>
       <li><a href="https://www.earthdata.nasa.gov/">NASA Earth Data </a></li>
       <li><a href="https://gisgeography.com/natural-earth-data-free-gis-public/">GIS Geography Natural Earth Data </a></li>
       <li><a href="https://uaf-snap.org/">Scenarios Network for Alaska and Artic Planning - Climate Data Hub</a></li>
+      </ul>
+  
+      <br><details><summary><b>Public Health & Poverty</b></summary>
+      <ul>
+      <li><a href="https://datacatalog.urban.org/dataset/safety-net-almanac-data ">Safety Almanac Data - Urban Institute</a></li>
+      <li><a href="https://www.dcfs.louisiana.gov/page/527">Louisiana DHS Program Data and Reports</a> - publicly available data on all LA DHs programs</li>
+      <li><a href="https://www.maine.gov/dhhs/ofi/about-us/data-reports">Maine DHS Data and Reports</a>- publicly available data and reports on programs</li>
+       <li><a href="https://sdsuicideprevention.org/data/ ">South Dakota Suicide Prevention Data Hub - South Dakota DHS</a></li>
+      <li><a href="https://www.avoidopioidsd.com/key-data/">South Dakota Addiction Data - South Dakota DHS</a></li>
+      </ul>
+  
+      <br><details><summary><b>Social Determinants of Health</b></summary>
+      <ul>
+      <li><a href="https://www.cdc.gov/healthyyouth/data/yrbs/data.htm">Youth Risk Behavior Survey (YRBS) Data - CDC </a></li>
+      <li><a href="https://atlas-dhhs.ne.gov/Atlas/BRFSS">Behavioral Risk Factor Surveillance System (BRFSS) Dashboard - Nebraska DHS</a></li>
       </ul>
      </details>
   </p>
@@ -115,10 +131,19 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
      </details>
   <details><summary><b>SNAP & WIC</b></summary>
       Resources for SNAP Research<br>
-      <i>These resources include explainations of what SNAP is and how it works, descriptive information on SNAP accessibility, and publicly available data on SNAP enrollment</i>
+      <i>These resources include explainations of what SNAP is and how it works, descriptive information on SNAP accessibility, and publicly available data on SNAP enrollment</i><br><br>
+      Resources for Understanding SNAP
       <ul>
       <li><a href="https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap">Comprehensive SNAP Breakdown - Center on Budget and Policy Priorities</a></li>
       <li><a href="https://www.census.gov/library/visualizations/interactive/snap-eligibility-access.html">US Census - SNAP Eligibility and Access Maps, 2017</a></li>
+      <li><a href="https://dfs.wyo.gov/about/policy-manuals/snap-and-power-policy-manual/">Wyoming DHS - SNAP and POWER Policy Manual</a> - *this is a setp-by-step breakdown fo exactly how all parts of the SNAP process work in Wyoming</li>
+      <li><a href="https://www.ncoa.org/article/senior-snap-participation">National Council on Aging - Senior SNAP Participation Overtime</a></li>
+      <li><a href="https://dphhs.mt.gov/hcsd/SNAP">Montana DHS - SNAP Breakdown</a></li>
+      <li><a href="https://jobs.utah.gov/customereducation/services/foodstamps/requirements.html">Utah DHS - SNAP Breakdown</a></li>
+      <li><a href="https://www.maine.gov/dhhs/ofi/about-us/data-reports">Oklahoma DHS - SNAP Brekadown</a></li>
+      </ul>
+      SNAP Eligibility and/or Enrollment Data 
+      <ul>
       <li><a href="https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap">USDA Food and Nutrition Service - SNAP Data Tables </a></li>
       <li><a href="https://fred.stlouisfed.org/tags/series?t=snap">**FRED - St. Louis Fed Economic Data Series on SNAP, has every state and their SNAP enrollment by year available for download</a></li>
       <li><a href="https://www.dhs.state.il.us/page.aspx?item=56952">Illinois DHS SNAP Data</a></li>
@@ -133,8 +158,21 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
       <li><a href="https://data.world/datasets/snap">Data World - SNAP Datasets</a></li>
       <li><a href="https://www.baylor.edu/hungerdatalab/index.php?id=966281">Baylor University - Texas SNAP Data</a></li>
       <li><a href="https://georgiadata.org/topics/public-assistance/SNAP">University of Georgia Public Service and Outreach- Georgia SNAP Data</a></li>
+      <li><a href="https://datacatalog.urban.org/dataset/safety-net-almanac-data/resource/safetynetdata-snap#{}">The Urban Institute Safety Net Almanac Data - SNAP Data</a></li>
+      <li><a href=""></a></li>
+      </ul>
+      Related SNAP Data and Information
+      <ul>
       <li><a href="https://data.ct.gov/Health-and-Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Aut/2xqb-xbez">Conneticut DHS - Conneticut SNAP Authorized Retailors Data</a></li>
-      <li><a href="">a></li>
+      <li><a href="https://www.fns.usda.gov/fm/grant-opportunities">USDA Grant Opportunites</a> - typically they will have 3 grants every year related to SNAP research</li>
+      </ul>
+    
+      Sample Project - Kentucky SNAP Data
+      <ul>
+      <li><a href="https://fred.stlouisfed.org/series/BRKY21M647NCEN">Kentucky SNAP Data</a> - the actual yearly Kentucky SNAP data set needed for the project</li>
+      <li><a href="https://chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/snap.aspx">Kentucky SNAP Eligibility and Program Breakdown</a> - a breakdown of exactly how Kentucky's SNAP program and eligibility works to understand what is going in to the data and how the data works to represent the program (i.e. what is the distinction between enrolled and eligible and who falls in these categories, what is the level of observation for their data), this is what will help contextualize the data set above ad help you more accurately fit it in to your proposed analysis</li>
+      <li><a href="https://www.cbpp.org/sites/default/files/atoms/files/snap_factsheet_kentucky.pdf">Kentucky SNAP Impact Breakdown</a> - this is a breakdown of perliminary investigations into the demographics of who is eligible and enrolled in SNAP as well as its impact on related areas</li>
+      <li><a href="https://kypolicy.org/tracking-snap-in-kentucky/">Tracking SNAP in Kentucky Analysis, Kentucky Center for Economic Policy</a> - a finished analysis of Kentucky's SNAP program</li>
       </ul>
      </details>
   </p>
