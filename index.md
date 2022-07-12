@@ -159,7 +159,6 @@ for Social Impact (DSSI)</i>, was created for students to intentionally, accurat
       <li><a href="https://www.baylor.edu/hungerdatalab/index.php?id=966281">Baylor University - Texas SNAP Data</a></li>
       <li><a href="https://georgiadata.org/topics/public-assistance/SNAP">University of Georgia Public Service and Outreach- Georgia SNAP Data</a></li>
       <li><a href="https://datacatalog.urban.org/dataset/safety-net-almanac-data/resource/safetynetdata-snap#{}">The Urban Institute Safety Net Almanac Data - SNAP Data</a></li>
-      <li><a href=""></a></li>
       </ul>
       Related SNAP Data and Information
       <ul>
